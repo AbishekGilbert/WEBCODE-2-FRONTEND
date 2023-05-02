@@ -10,8 +10,7 @@ const FLinks = () => {
         <p>Facebook</p>
       </div>
       <div className='footer-container-1-links'>
-        <p>Site designed by <a href="https://www.linkedin.com/in/hrushikeshpatra24/">Hrushikesh</a> / logo from
-         <a href="https://ionic.io/ionicons">ionicons</a> </p>
+        <p>Site designed by <a href="https://www.linkedin.com/in/abishek-gilbert-642995158/">Abishek Gilbert</a></p>
       </div>
      
     </div>
